@@ -1,10 +1,11 @@
 ### Hi there, I'm Brian Clee
 
 - 📚 I received my B.S. in Computer Science from App State Univerity in 2015
+- 👨‍🔬 Minored in Mathematics, Russian Language, and Global Studies: Russian Studies
 - 🔍 I received my M.S. in Computer Science from NC State University in 2018
 - 🖱️ My graduate research focused on Human Computer Interaction with non-traditional displays
-- 🗺️ I currently work as a Python Developer for Esri
-- 🧗 My passion is Rock Climbing, you find me climbing on rocks in Joshua Tree almost any weekend
+- 🗺️ I currently work as a Python Developer for Esri helping support Python across our platform
+- 🧗 My passion is Rock Climbing, you can find me climbing on rocks outside almost any weekend
 - ⚡ I love playing guitar, my dog Bowie, and getting Tattoos
 
 ---
