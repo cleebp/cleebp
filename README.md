@@ -7,7 +7,8 @@
 - 🗺️ I currently work as a Python Developer for Esri helping support Python across our platform via conda package building
   - 🐍 I help manage and develop the 260+ conda packages on our [Esri conda channel](https://anaconda.org/Esri/repo) supporting python in the ArcGIS Pro and ArcGIS Enterprise products
   - 🕸️ Core maintainer of Esri's [deep-learning-frameworks](https://github.com/esri/deep-learning-frameworks) and the additional 250+ deep learning packages
-
+- 🧗 My passion is rock climbing
+  - 🏜️ Joshua Tree is my favorite place to climb, I love trad crack climbing!
 ---
 
 ### Connect with me:
